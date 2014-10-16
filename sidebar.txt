@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[bkp:home|Door43 (bkp)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-bkp|d43-bkp repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-bkp/archive/master.zip|d43-bkp.zip]]
+
+**Recent Changes**
+{{changes>ns = bkp}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/bkp|Ethnologue data]]
+
